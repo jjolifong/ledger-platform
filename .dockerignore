@@ -1,0 +1,39 @@
+# Git / IDE
+.git
+.gitignore
+.cursor
+.vscode
+.idea
+
+# Frontend build artifacts & deps
+frontend/node_modules
+frontend/dist
+
+# Python
+**/__pycache__
+**/*.pyc
+**/*.pyo
+venv
+.venv
+**/venv
+**/.venv
+
+# Local DB & backups
+backend/ledger.db
+backend/backup/
+**/ledger.db
+
+# Docs / personal
+*.md
+!README.md
+개인프로젝트_*
+기획안_*
+*.pptx
+*.pdf
+
+# Env / misc
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
