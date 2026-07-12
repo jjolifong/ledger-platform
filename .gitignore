@@ -15,5 +15,8 @@ frontend/dist/
 # Environment
 .env
 
-# Planning docs
-기획안_*.md
+# Planning / personal docs
+개인프로젝트_*
+기획안_*
+*.pptx
+*.pdf
