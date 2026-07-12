@@ -1,0 +1,16 @@
+# Backend
+backend/ledger.db
+backend/backup/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
